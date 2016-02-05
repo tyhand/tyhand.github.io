@@ -1,0 +1,24 @@
+{
+  "name": "tyhandcom",
+  "version": "1.0",
+  "description": "My personal site",
+  "main": "index.html",
+  "moduleType": [],
+  "authors": [
+    "Tyhand"
+  ],
+  "license": "MIT",
+  "homepage": "/",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bulma": "~0.0.10",
+    "font-awesome": "~4.5.0"
+  }
+}
