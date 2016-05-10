@@ -2,6 +2,7 @@
     background: #fd746c;
     background: -webkit-linear-gradient(to left, #fd746c , #ff9068);
     background: linear-gradient(to left, #fd746c , #ff9068);
+    min-height: 94vh;
 }
 
 .hero-content .title {
@@ -14,4 +15,42 @@
 
 .is-secondary {
     background-color: #ddd
+}
+
+.tabs a {
+    color: #d3d6db;
+    font-size: 18px;
+}
+
+.tabs a:hover {
+    color: #fff;
+    border-bottom: 1px solid #fff;
+}
+
+.tabs.is-fullwidth ul {
+    justify-content: center;
+    text-align: center;
+}
+
+.tabs.is-fullwidth li {
+    flex: 1;
+}
+
+#navigation {
+    z-index: 1;
+    background: #fd746c;
+    background: -webkit-linear-gradient(to left, #fd746c , #ff9068);
+    background: linear-gradient(to left, #fd746c , #ff9068);
+}
+
+.sticky {
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+}
+
+.sticky:before,
+.sticky:after {
+    content: '';
+    display: table;
 }

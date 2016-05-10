@@ -18,7 +18,8 @@
     "tests"
   ],
   "dependencies": {
-    "bulma": "~0.0.10",
-    "font-awesome": "~4.5.0"
+    "bulma": "0.0.10",
+    "font-awesome": "~4.5.0",
+    "Stickyfill": "~1.1.4"
   }
 }

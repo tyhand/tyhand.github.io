@@ -28,8 +28,7 @@
     "tag": "0.0.10",
     "commit": "a85746c51f7f14bbeaec4f09d01f7fc56a97dfd0"
   },
-  "_source": "git://github.com/jgthms/bulma.git",
-  "_target": "~0.0.10",
-  "_originalSource": "bulma",
-  "_direct": true
+  "_source": "https://github.com/jgthms/bulma.git",
+  "_target": "0.0.10",
+  "_originalSource": "bulma"
 }
